@@ -24,5 +24,13 @@
 </div>
 
 
+---
 
+<div align="center">
+  <h2>🛠️ Stats</h2>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wdw51)](https://solved.ac/wdw51/)
+  
+</div>
+  
 
